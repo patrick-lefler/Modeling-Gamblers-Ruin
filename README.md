@@ -1,5 +1,7 @@
 ### Gambler's Ruin: A Markov Chain Simulation
 
+The Shiny App can be accessed here: https://patrick-lefler.shinyapps.io/Shiny_Gamblers-Ruin/
+
 #### 1. Introduction: The Tyranny of the Absorbing State
 The **Gambler's Ruin** problem is more than a lesson in casino probability; it is a fundamental theorem of survival analysis. It posits a scenario where a player with finite wealth plays a fair (or slightly unfair) game against an opponent with infinite wealth. The mathematical conclusion is stark: if the game continues indefinitely, the probability of the finite player going broke is not merely high—it is **100%**. 
 
