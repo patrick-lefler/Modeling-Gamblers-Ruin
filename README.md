@@ -1,4 +1,4 @@
-### Gambler's Ruin: A Markov Chain Simulation
+## Gambler's Ruin: A Markov Chain Simulation
 
 The Shiny App can be accessed here: https://patrick-lefler.shinyapps.io/Shiny_Gamblers-Ruin/
 
