@@ -46,7 +46,7 @@ Quantitative traders often use mean-reversion strategies that profit from small 
 
 ---
 
-#### 4. Key Takeaways for the Executive
+#### 4. Key Takeaways
 
 1.  **Time is an Adversary:** In any asymmetric risk scenario (finite vs. infinite resources), time increases the probability of the negative absorbing state. If you stay in the game long enough with any disadvantage, you will lose.
 2.  **Volatility Masks Risk:** A random walk can drift upwards for a long time before crashing. Do not mistake a 'lucky run' (a transient state) for a 'winning strategy' (a structural advantage).
