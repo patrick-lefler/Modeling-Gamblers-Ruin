@@ -3,7 +3,7 @@
 The Shiny App can be accessed here: https://patrick-lefler.shinyapps.io/Shiny_Gamblers-Ruin/
 
 ## 1. Historical Context
-The mathematical foundation of the "Defender's Dilemma" rests upon a problem posed in the 17th century, known as the **Gambler's Ruin**. The concept originated from correspondence between Blaise Pascal and Pierre de Fermat in 1656, arguably marking the birth of modern probability theory. They sought to solve the "Problem of Points": how to fairly divide the stakes of an unfinished game of chance between two players with uneven scores.
+The mathematical foundation of the "Gamblers' Ruin" rests upon a problem posed in the 17th century wehere the concept originated from correspondence between Blaise Pascal and Pierre de Fermat in 1656, arguably marking the birth of modern probability theory. They sought to solve the "Problem of Points": how to fairly divide the stakes of an unfinished game of chance between two players with uneven scores.
 
 This problem evolved into the classical Gambler's Ruin theorem, which calculates the probability that a gambler, starting with a finite amount of capital (or "bankroll"), will eventually go bankrupt (reach zero) before reaching a target wealth, given a specific probability of winning each hand. While originally intended for games of dice and coin flips, the underlying dynamics—finite resources opposing an infinite or highly capitalized adversary—perfectly mirror the modern cybersecurity landscape.
 
